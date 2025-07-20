@@ -9,7 +9,7 @@
 - 🌐 **RESTful API Support**: Enables automated data retrieval and smooth integration with **machine learning pipelines** for predictive modeling.
 
 ### 🔗 Live Website:
-[Visit Hemolytik 2.0](https://webs.iiitd.edu.in/raghava/hemolytik2/) *(replace with actual link)*
+[Visit Hemolytik 2.0](https://webs.iiitd.edu.in/raghava/hemolytik2/) 
 
 ---
 
